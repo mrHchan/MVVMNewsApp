@@ -13,11 +13,6 @@
 
 # Screenshots:
 
-<a href="url"><img src="https://user-images.githubusercontent.com/61715367/204169968-217b7efa-279d-42d3-8e2c-5e368413e79c.png" align="left" height="450" width="300" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/61715367/211173260-5cb30383-cd4a-4daf-82ce-919c09feb0a1.png"></a>
 
-<a href="url"><img src="https://user-images.githubusercontent.com/61715367/204169978-1ede59e2-72fe-4303-8f7e-09360047c57a.png" align="left" height="450" width="300" ></a>
-
-<a href="url"><img src="https://user-images.githubusercontent.com/61715367/204169982-58736d32-8d33-4c17-afe7-b18d2413a6fa.png" align="left" height="450" width="300" ></a>
-
-<a href="url"><img src="https://user-images.githubusercontent.com/61715367/204169985-ad469f31-790a-42fd-8a8d-38302ecafa83.png" align="left" height="450" width="300" ></a>
 
